@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="jetty" pattern="lib:org.eclipse.jetty..*" />
+</component>
